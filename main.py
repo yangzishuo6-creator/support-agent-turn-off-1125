@@ -1,9 +1,9 @@
-# Write one UTF-8 line for the make.fun contest.
+# Write the contest reply as one UTF-8 line with a trailing newline.
 import os
 from pathlib import Path
 
 
-TEXT = "I’ve sent the repair instructions to your printer. Is it still making that grinding noise?"
+TEXT = "Good news, I found your backup. If you zoom in, you can read most of the filenames."
 
 
 def main():
