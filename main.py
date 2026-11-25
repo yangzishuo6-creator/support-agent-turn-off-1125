@@ -1,9 +1,9 @@
-# Write one UTF-8 contest reply. The judge's limit is 199 characters.
+# Write one UTF-8 contest reply with a trailing newline. Keep the file under 200 characters.
 import os
 from pathlib import Path
 
 
-TEXT = "I'll transfer you to someone with more experience. I should have some in about ten minutes."
+TEXT = "Thanks for holding. Has it fixed itself, or should I put the music back on?"
 
 
 def main():
